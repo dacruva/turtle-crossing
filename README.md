@@ -1,3 +1,3 @@
 # Turtle crossing
 
-Basic turtle crossing game developed in python
+Basic turtle crossing game developed in python.
